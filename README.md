@@ -42,12 +42,16 @@ I'm also an AmxModX Developer (Counter-Strike 1.6) and currently dedicate my tim
   > ### **[WEB DEVELOPMENT](#web-development)**
   * HTML
   * CSS
+  * UI/UX
+  * Figma
   * SVG (color animation)
   * TailwindCSS
   * Stylus
   * NodeJS
   * AdonisJS
-  * VueJS
+  * VueJS 3
+  * NuxtJS 3
+  * Redis
   * Database (MySQL)
   * Fish Shell (WSL and WSL2)
   * VSCode
@@ -71,6 +75,9 @@ I'm also an AmxModX Developer (Counter-Strike 1.6) and currently dedicate my tim
 
 <a href="#"><img width="38" title="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></a>
 <a href="#"><img width="40" title="Pawn" src="https://user-images.githubusercontent.com/66394117/168028266-5dd18607-a4d3-47bf-abd6-293afa63b14b.svg"></a>
+<a href="#"><img width="40" title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
+<a href="#"><img width="40" title="AppScript" src="https://user-images.githubusercontent.com/66394117/186829772-1c46c239-fad6-4a03-82f1-8299a525e736.svg"></a>
+<a href="#"><img width="40" title="PHP" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"></a>
 <a href="#"><img width="36" title="Liquid" src="https://user-images.githubusercontent.com/66394117/168035992-65931adf-7bfb-40b6-bb96-54a528141f97.jpg"></a>
 <a href="#"><img width="36" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
 <a href="#"><img width="36" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
@@ -88,6 +95,7 @@ I'm also an AmxModX Developer (Counter-Strike 1.6) and currently dedicate my tim
 <a href="#"><img width="40" title="NodeJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"></a>
 <a href="#"><img width="40" title="AdonisjS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg"></a>
 <a href="#"><img width="38" title="VueJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></a>
+<a href="#"><img width="38" title="NuxtJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"></a>
 <a href="#"><img width="40" title="TailwindCSS" src="https://user-images.githubusercontent.com/66394117/180900517-6c86ce7a-fdd7-45ed-829a-b7ebc2150ef6.svg"></a>
 <a href="#"><img width="46" title="Stylus" src="https://user-images.githubusercontent.com/66394117/180953124-4b99ef4f-c76d-4eea-b561-bed6ee0075f1.svg"></a>
 <a href="#"><img width="38" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
@@ -96,7 +104,6 @@ I'm also an AmxModX Developer (Counter-Strike 1.6) and currently dedicate my tim
 <a href="#"><img width="36" title="Illustrator" src="https://user-images.githubusercontent.com/66394117/168051773-e27964bd-43a9-456b-9c2c-141f18043372.svg"></a>
 <a href="#"><img width="36" title="Photoshop" src="https://user-images.githubusercontent.com/66394117/168050769-9e3d11c0-6d25-4f62-a348-f1b3985f50b9.svg"></a>
 <a href="#"><img width="38" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"></a>
-<a href="#"><img width="38" title="Canva" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"></a>
 
 <br>
 <br>
